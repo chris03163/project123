@@ -11,7 +11,7 @@
 為了有效應付學測會考但訪間參考書沒有的內容
 # This is a Heading h1
 
-[Google][1]
+[大考中心英文單字表][1]
 
   [1]: https://www.ceec.edu.tw/xmdoc?xsmsid=0K213553204833715309        "游標顯示"
 ## This is a Heading h2
