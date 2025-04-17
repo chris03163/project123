@@ -12,12 +12,8 @@
 # This is a Heading h1
 
 [Google][1]
-[Yahoo][2]
-[MSN][3]
 
-  [1]: http://google.com/        "游標顯示"
-  [2]: http://search.yahoo.com/  "游標顯示"
-  [3]: http://search.msn.com/    "游標顯示"
+  [1]: https://www.ceec.edu.tw/xmdoc?xsmsid=0K213553204833715309        "游標顯示"
 ## This is a Heading h2
 ###### This is a Heading h6
 
