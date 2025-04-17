@@ -1,20 +1,19 @@
 # An English vocabulary web crawler and memorization assistant system
 
 ## why this project?
-1.只針對大考中心發布的單字表中的單字與其詞性爬取資料
+1.針對大考中心發布的單字表中的單字與其詞性爬取資料
 
-2
+2結合上述功能的詞卡記憶輔助功能
 
-| 年度/題號 | 題目 | 答對率 | 答題關鍵 | 
-|:--:|:--:|:--:|:--:|
-| 9. After watching a TV program on natural history, Adam decided to go on a ______ for dinosaur fossils in South Dakota. (A) trial (B) route (C) strike (D) quest 
- | 置右 | 置中 | 置中 |
-
-2.程式自動安排府和記憶曲線的複習時間
-
-3.詞卡系統幫助使用者 **主動回想(active recall)** 並著重在英文句子而非單字
-
-
+## how to use?
+### 首先是爬蟲的部分
+打開電腦的終端或powershell，並把以下內容複製貼上
+ ```
+pip install requests
+```
+ ```
+pip install BeautifulSoup
+```
 
 ## 副功能
 
