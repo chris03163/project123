@@ -14,6 +14,19 @@ pip install requests
  ```
 pip install BeautifulSoup
 ```
+再把此專案下載下來，點擊執行名為visit2.py的檔案，將會出現
+```
+enter filepath of word file:
+```
+的字樣，請輸入要爬取的單字文字檔的名稱，範例檔名是exmp_words.txt
+
+接著會出現
+```
+enter filepath of destination:
+```
+這裡輸入要存取爬蟲結果的文字名稱，範例檔名是result_exmp.txt(若輸入不在資料夾內的檔名會自動創一個)
+
+
 
 ## 副功能
 
