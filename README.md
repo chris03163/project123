@@ -20,6 +20,14 @@ enter filepath of word file:
 ```
 的字樣，請輸入要爬取的單字文字檔的名稱，範例檔名是exmp_words.txt
 
+註:單字文字檔的格式是以換行分隔的txt檔使用者可自行刪除或新增內容，範例如下
+```
+apple
+banana
+watermelon
+...
+```
+
 接著會出現
 ```
 enter filepath of destination:
