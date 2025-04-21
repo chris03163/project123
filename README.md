@@ -1,4 +1,4 @@
-# An English vocabulary web crawler and memorization assistant system
+# An English vocabulary web crawler and active recall helper
 
 ## why this project?
 1.針對大考中心發布的單字表中的單字與其詞性爬取資料
