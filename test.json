@@ -1,0 +1,1136 @@
+[
+  {
+    "word": "ACCIDENT(1)",
+    "eng_def": "something bad that happens that is not expected or intended and that often damages something or injures someone",
+    "chi_def": "意外；不測；事故",
+    "eng_sen": [
+      "Josh had an accident and spilled water all over his work.",
+      "She was injured in a car/road accident (= when one car hit another)."
+    ],
+    "chi_sen": [
+      "喬希不小心把作業上灑得都是水。",
+      "她在一宗車禍／交通意外中受傷了。"
+    ]
+  },
+  {
+    "word": "PIN(1)",
+    "eng_def": "a small thin piece of metal with a point at one end, especially used for temporarily holding pieces of cloth together",
+    "chi_def": "（尤指用於固定布料用的）別針，大頭針",
+    "eng_sen": [
+      "I'll keep the trouser patch in place with pins while I sew it on."
+    ],
+    "chi_sen": [
+      "在把褲子的補丁縫上去時，我會用別針把它固定好。"
+    ]
+  },
+  {
+    "word": "PIN(2)",
+    "eng_def": "a thin piece of metal",
+    "chi_def": "釘，楔，銷，栓",
+    "eng_sen": [
+      "If you pull the pin out of a hand-grenade, it'll explode.",
+      "a two-pin/three-pin electrical plug",
+      "Doctors inserted a metal pin in his leg to hold the bones together."
+    ],
+    "chi_sen": [
+      "拉掉手榴彈上的保險栓它就會爆炸。",
+      "那是雙腳插頭還是三腳插頭？",
+      "醫生把一根鋼針釘進他腿裡，把骨頭固定好。"
+    ]
+  },
+  {
+    "word": "PIN(3)",
+    "eng_def": "a decorative object, used as jewellery",
+    "chi_def": "飾針",
+    "eng_sen": [
+      "a hat/tie pin"
+    ],
+    "chi_sen": [
+      "女帽飾針／領帶別針"
+    ]
+  },
+  {
+    "word": "PIN(4)",
+    "eng_def": "a leg",
+    "chi_def": "腿",
+    "eng_sen": [
+      "Grandpa's very old now and he's very shaky on his pins."
+    ],
+    "chi_sen": [
+      "爺爺現在年紀很大了，走路有點不穩。"
+    ]
+  },
+  {
+    "word": "PIN(5)",
+    "eng_def": "In the game of chess, a pin is a special move that stops the other player from moving one of their pieces, because to move it will put another more valuable piece in danger.",
+    "chi_def": "牽制，困子（西洋棋中「牽制」或「困子」是特殊的一步，移動後可阻止另一方移動某棋子，因為移動該棋子會使另一個更重要的棋子有危險）",
+    "eng_sen": [
+      "That nasty pin stopped me from moving my knight."
+    ],
+    "chi_sen": [
+      "這步討厭的牽制，使我無法移動我的馬。"
+    ]
+  },
+  {
+    "word": "PIN(6)",
+    "eng_def": "to fasten something with a pin",
+    "chi_def": "（用別針等）別住，釘住，固定住",
+    "eng_sen": [
+      "A large picture of the president was pinned to/(up) on the office wall.",
+      "She had pinned up her beautiful long hair."
+    ],
+    "chi_sen": [
+      "總統的巨幅照片釘在辦公室的牆上。",
+      "她把美麗的長髮用髮夾別了起來。"
+    ]
+  },
+  {
+    "word": "PIN(7)",
+    "eng_def": "to force someone or something to stay in a particular place by putting weight on him, her, or it",
+    "chi_def": "按住，壓住",
+    "eng_sen": [
+      "She was pinned (down) under a pile of rubble.",
+      "A guy leaped out at me and pinned me (up) against the wall."
+    ],
+    "chi_sen": [
+      "她被壓在一堆碎石下面。",
+      "一個傢夥向我撲過來，把我按在牆上。"
+    ]
+  },
+  {
+    "word": "PIPE(1)",
+    "eng_def": "a tube inside which liquid or gas flows from one place to another",
+    "chi_def": "管;管子;管道",
+    "eng_sen": [
+      "a water/gas/sewer pipe",
+      "a burst/fractured/leaking pipe"
+    ],
+    "chi_sen": [
+      "供水管道／煤氣管道／污水管",
+      "爆裂／破裂／外洩的管道"
+    ]
+  },
+  {
+    "word": "PIPE(2)",
+    "eng_def": "a short, narrow tube with a small container at one end, used for smoking tobacco",
+    "chi_def": "煙鬥",
+    "eng_sen": [
+      "I ordered some tea for myself and lit my pipe."
+    ],
+    "chi_sen": [
+      "我叫了茶，點著了煙斗。"
+    ]
+  },
+  {
+    "word": "PIPE(3)",
+    "eng_def": "to transport something in a pipe",
+    "chi_def": "用管道運輸",
+    "eng_sen": [
+      "Hot water is piped to all apartments from the central boiler room.",
+      "Music is piped throughout the hotel complex."
+    ],
+    "chi_sen": [
+      "熱水從中央鍋爐房經管道輸送到每個公寓套房。",
+      "音樂聲在整棟飯店大樓裡迴盪。"
+    ]
+  },
+  {
+    "word": "PLAN(1)",
+    "eng_def": "a set of decisions about how to do something in the future",
+    "chi_def": "計劃，方案",
+    "eng_sen": [
+      "a company's business plan",
+      "a negotiated peace plan",
+      "a five-year plan",
+      "holiday plans",
+      "What are your plans for this weekend?",
+      "My plan is to sell the house and buy an apartment."
+    ],
+    "chi_sen": [
+      "公司的商業計劃",
+      "談判達成的和平方案",
+      "五年計劃",
+      "假期安排",
+      "這個週末你有甚麼計劃？",
+      "我的計畫是賣了這棟房子再買一間公寓。"
+    ]
+  },
+  {
+    "word": "PLAN(2)",
+    "eng_def": "a type of arrangement for financial investment",
+    "chi_def": "（金融投資）方案，規劃",
+    "eng_sen": [
+      "a pension/savings plan"
+    ],
+    "chi_sen": [
+      "退休金／儲蓄方案"
+    ]
+  },
+  {
+    "word": "PLAN(3)",
+    "eng_def": "to happen in the way you intend: ",
+    "chi_def": "這類事件很少會按計劃發展。",
+    "eng_sen": [
+      "Events of this type rarely go according to plan."
+    ],
+    "chi_sen": [
+      "這類事件很少會按計劃發展。"
+    ]
+  },
+  {
+    "word": "PLAN(4)",
+    "eng_def": "a drawing of a building, town, area, vehicle, machine, etc. that only shows its shape from above, its size, and the position of important details",
+    "chi_def": "平面圖，示意圖",
+    "eng_sen": [
+      "a street plan (= a type of map of a town showing the roads)",
+      "a seating plan (= a drawing that shows where each person will sit)"
+    ],
+    "chi_sen": [
+      "街道平面圖",
+      "座位表"
+    ]
+  },
+  {
+    "word": "PLAN(5)",
+    "eng_def": "drawings from which something is made or built: ",
+    "chi_def": "建築師向我們展示了她畫的房屋詳圖。",
+    "eng_sen": [
+      "The architect showed us the house plans that she had drawn up."
+    ],
+    "chi_sen": [
+      "建築師向我們展示了她畫的房屋詳圖。"
+    ]
+  },
+  {
+    "word": "PLAN(6)",
+    "eng_def": "to think about and decide what you are going to do or how you are going to do something",
+    "chi_def": "計劃，規劃;精心安排",
+    "eng_sen": [
+      "She helped them to plan their route.",
+      "If we plan carefully, we should be able to stay within our budget.",
+      "She's already planning how to spend her prize money."
+    ],
+    "chi_sen": [
+      "她幫助他們設計路線。",
+      "如果我們精打細算，我們就可以不超支。",
+      "她已經在計劃如何花獎金了。"
+    ]
+  },
+  {
+    "word": "PLAN(7)",
+    "eng_def": "to intend to do something or that an event or result should happen",
+    "chi_def": "計劃，打算",
+    "eng_sen": [
+      "Our meeting wasn't planned - it was completely accidental.",
+      "I'm not planning to stay here much longer.",
+      "We only planned for six guests, but then someone brought a friend."
+    ],
+    "chi_sen": [
+      "我們的會面不是安排好的——純屬偶然。",
+      "我不打算在這裡再待很長時間。",
+      "我們本來預計只有六個客人來訪，但有人帶了一個朋友來。"
+    ]
+  },
+  {
+    "word": "PLAN(8)",
+    "eng_def": "to design a building or structure",
+    "chi_def": "設計，規劃",
+    "eng_sen": [
+      "The people who planned these new towns had a vision of clean modern housing for everyone."
+    ],
+    "chi_sen": [
+      "新城鎮的設計者期望為所有人提供整潔的現代居所。"
+    ]
+  },
+  {
+    "word": "PLANT(1)",
+    "eng_def": "a living thing that grows in earth, in water, or on other plants, usually has a stem, leaves, roots, and flowers, and produces seeds",
+    "chi_def": "植物",
+    "eng_sen": [
+      "native plants and animals",
+      "garden/greenhouse/indoor plants",
+      "a tomato plant"
+    ],
+    "chi_sen": [
+      "原產於當地的動植物",
+      "花園／溫室／室內植物",
+      "一株番茄"
+    ]
+  },
+  {
+    "word": "PLANT(2)",
+    "eng_def": "machines used in industry",
+    "chi_def": "機器，設備",
+    "eng_sen": [
+      "The industry was accused of having invested little in workers, plant, or infrastructure."
+    ],
+    "chi_sen": [
+      "工業界被指責在工人、工廠和基礎設施方面投入太少。"
+    ]
+  },
+  {
+    "word": "PLANT(3)",
+    "eng_def": "a factory in which a particular product is made or power is produced",
+    "chi_def": "工廠",
+    "eng_sen": [
+      "Two more car-assembly plants were closed by the strike."
+    ],
+    "chi_sen": [
+      "又有兩家汽車裝配廠因罷工而關閉。"
+    ]
+  },
+  {
+    "word": "PLANT(4)",
+    "eng_def": "a large, heavy machine or vehicle used in industry, for building roads, etc.",
+    "chi_def": "（用於修路等的重型）設備，裝置，機械",
+    "eng_sen": [
+      "The sign by the roadworks said \"Slow - heavy plant crossing\".",
+      "The firm's main business was plant hire."
+    ],
+    "chi_sen": [
+      "道路工程旁邊的告示牌上寫著「減速——前方有重型施工機械」。",
+      "這家公司的主要業務是設備租賃。"
+    ]
+  },
+  {
+    "word": "PLANT(5)",
+    "eng_def": "something illegal or stolen that has been put secretly in a person's clothing or among the things that belong to them to make them seem guilty of a crime",
+    "chi_def": "栽贓物品",
+    "eng_sen": [
+      "He insisted the money was a plant."
+    ],
+    "chi_sen": [
+      "他堅持說錢是被人栽贓嫁禍。"
+    ]
+  },
+  {
+    "word": "PLANT(6)",
+    "eng_def": "to put a plant into the ground or into a container of soil so that it will grow",
+    "chi_def": "種植，栽種",
+    "eng_sen": [
+      "We planted trees and bushes in our new garden.",
+      "Hyacinth bulbs planted in pots now will flower early in the spring."
+    ],
+    "chi_sen": [
+      "我們在新花園裡種了樹和灌木。",
+      "如果現在種在花盆裡，風信子的球莖會在早春開花。"
+    ]
+  },
+  {
+    "word": "PLANT(7)",
+    "eng_def": "If you plant a particular area, you put plants into the ground there.",
+    "chi_def": "在…處栽種植物",
+    "eng_sen": [
+      "The plot was surrounded by a stone wall and planted with flowering trees.",
+      "a densely planted garden (= one in which the plants are close together)"
+    ],
+    "chi_sen": [
+      "那個地方圍著石牆，種著繁花盛開的樹。",
+      "花木茂密的花園"
+    ]
+  },
+  {
+    "word": "PLANT(8)",
+    "eng_def": "to put something firmly and strongly in a particular place",
+    "chi_def": "放置，安放",
+    "eng_sen": [
+      "My brother planted himself on the sofa in front of the television.",
+      "He planted a kiss on her forehead/a blow on his opponent's jaw."
+    ],
+    "chi_sen": [
+      "我哥哥坐在電視機前的沙發上。",
+      "他在她的額頭上吻了一下／一拳打在對手的下巴上。"
+    ]
+  },
+  {
+    "word": "PLANT(9)",
+    "eng_def": "to cause an idea or story to exist",
+    "chi_def": "注入，灌輸",
+    "eng_sen": [
+      "That incident planted doubts about him in my mind.",
+      "Who planted these rumours?"
+    ],
+    "chi_sen": [
+      "那件事讓我對他產生了懷疑。",
+      "誰製造了這些謠言？"
+    ]
+  },
+  {
+    "word": "PLANT(10)",
+    "eng_def": "to put something or someone in a position secretly, especially in order to deceive someone",
+    "chi_def": "藏匿;栽贓",
+    "eng_sen": [
+      "She insisted that the drugs had been planted on her without her knowledge."
+    ],
+    "chi_sen": [
+      "她堅持說毒品是在她毫不知曉的情況下有人栽贓於她的。"
+    ]
+  },
+  {
+    "word": "PLANT(11)",
+    "eng_def": "to put a bomb somewhere so that it will explode there",
+    "chi_def": "藏匿;栽贓",
+    "eng_sen": [
+      "The bomb was planted in the station waiting room."
+    ],
+    "chi_sen": [
+      "炸彈被放置在車站的候車室內。"
+    ]
+  },
+  {
+    "word": "PLAY(1)",
+    "eng_def": "When you play, especially as a child, you spend time doing an enjoyable and/or entertaining activity.",
+    "chi_def": "（尤指兒童）玩，玩耍",
+    "eng_sen": [
+      "The children spent the afternoon playing with their new toys.",
+      "My daughter used to play with the kids next door."
+    ],
+    "chi_sen": [
+      "孩子們下午在玩自己的新玩具。",
+      "我女兒以前常跟隔壁的孩子們玩。"
+    ]
+  },
+  {
+    "word": "PLAY(2)",
+    "eng_def": "to take part in a game or other organized activity",
+    "chi_def": "參加（遊戲、比賽等）",
+    "eng_sen": [
+      "Do you want to play cards/football (with us)?",
+      "Irene won't be able to play in the tennis match on Saturday.",
+      "Which team do you play for?",
+      "Luke plays centre-forward (= plays in that position within the team)."
+    ],
+    "chi_sen": [
+      "你想（和我們）打牌／踢球嗎？",
+      "愛琳星期六不能參加網球比賽。",
+      "你效力於哪支球隊？",
+      "盧克踢中鋒。"
+    ]
+  },
+  {
+    "word": "PLAY(3)",
+    "eng_def": "to compete against a person or team in a game",
+    "chi_def": "與…比賽",
+    "eng_sen": [
+      "Who are the Giants playing next week?"
+    ],
+    "chi_sen": [
+      "下星期巨人隊和哪支隊伍比賽？"
+    ]
+  },
+  {
+    "word": "PLAY(4)",
+    "eng_def": "to hit or kick a ball in a game",
+    "chi_def": "踢（球），擊打（球）",
+    "eng_sen": [
+      "He played the ball back to the goalkeeper.",
+      "A good pool player takes time deciding which shot to play."
+    ],
+    "chi_sen": [
+      "他把球踢回給守門員。",
+      "一個優秀的檯球選手會從容考慮擊哪顆球。"
+    ]
+  },
+  {
+    "word": "PLAY(5)",
+    "eng_def": "(in a card game) to choose a card from the ones you are holding and put it down on the table",
+    "chi_def": "出（牌）",
+    "eng_sen": [
+      "She played the ace of spades."
+    ],
+    "chi_sen": [
+      "她出了一張黑桃 A。"
+    ]
+  },
+  {
+    "word": "PLAY(6)",
+    "eng_def": "to perform an entertainment or a particular character in a play, film, etc.",
+    "chi_def": "扮演，演出",
+    "eng_sen": [
+      "Scottish Opera played to full houses every night.",
+      "I didn't realize that \"Macbeth\" was playing (= being performed) at the festival.",
+      "In the movie version, Branagh played the hero."
+    ],
+    "chi_sen": [
+      "蘇格蘭歌劇院每晚演出都爆滿。",
+      "我沒想到《馬克白》正在藝術節上演。",
+      "在電影版中，布拉那扮演主人公。"
+    ]
+  },
+  {
+    "word": "PLAY(7)",
+    "eng_def": "to behave or pretend in a particular way, especially in order to produce a particular effect or result",
+    "chi_def": "假裝，裝扮",
+    "eng_sen": [
+      "to play dead/dumb",
+      "Would you mind playing host (= entertaining the guests)?"
+    ],
+    "chi_sen": [
+      "裝死／啞巴",
+      "你來招待客人好嗎？"
+    ]
+  },
+  {
+    "word": "PLAY(8)",
+    "eng_def": "to deceive someone to make them laugh or in order to get an advantage over them",
+    "chi_def": "開玩笑;搞惡作劇",
+    "eng_sen": [
+      "She loves playing practical jokes on her friends."
+    ],
+    "chi_sen": [
+      "她喜歡對她的朋友們惡作劇。"
+    ]
+  },
+  {
+    "word": "PLAY(9)",
+    "eng_def": "to help to achieve something",
+    "chi_def": "（在…中）起作用",
+    "eng_sen": [
+      "My thanks to everyone who has played a part in saving the hospital."
+    ],
+    "chi_sen": [
+      "我向參與拯救這家醫院的每一個人表示感謝。"
+    ]
+  },
+  {
+    "word": "PLAY(10)",
+    "eng_def": "to perform music on an instrument or instruments",
+    "chi_def": "演奏，彈撥，吹奏（樂器）;播放",
+    "eng_sen": [
+      "He learned to play the clarinet at the age of ten.",
+      "Play us a song!/Play a song for us!",
+      "On Radio London they play African and South American music as well as rock and pop.",
+      "They could hear a jazz band playing in the distance."
+    ],
+    "chi_sen": [
+      "他十歲就開始學習吹奏單簧管。",
+      "給我們奏支曲子吧！",
+      "倫敦廣播電台不僅播放搖滾和流行音樂，還播放非洲和南美洲的音樂。",
+      "他們可以聽到遠處的爵士樂隊在演奏。"
+    ]
+  },
+  {
+    "word": "PLAY(11)",
+    "eng_def": "to (cause a machine to) produce sound or a picture",
+    "chi_def": "（使）演奏;（使）播放",
+    "eng_sen": [
+      "Play the last few minutes of the video again."
+    ],
+    "chi_sen": [
+      "把錄影帶的最後幾分鐘再放一遍。"
+    ]
+  },
+  {
+    "word": "PLAY(12)",
+    "eng_def": "to direct or be directed over or onto something",
+    "chi_def": "（使）發射（或噴射、照射）",
+    "eng_sen": [
+      "Firefighters played their hoses onto the base of the fire.",
+      "A fountain was playing (= sending out water) in the courtyard outside."
+    ],
+    "chi_sen": [
+      "消防隊員把水龍頭對準火源。",
+      "外面院子裡有個噴泉在噴水。"
+    ]
+  },
+  {
+    "word": "PLAY(13)",
+    "eng_def": "(of something you see, such as light) to move quickly or be seen for a short time",
+    "chi_def": "（光等）快速移動，閃現，浮現",
+    "eng_sen": [
+      "A smile played across/over/on his lips."
+    ],
+    "chi_sen": [
+      "他的唇角閃過一絲微笑。"
+    ]
+  },
+  {
+    "word": "PLAY(14)",
+    "eng_def": "to risk money, especially on the results of races or business deals, hoping to win more money",
+    "chi_def": "賭，投機",
+    "eng_sen": [
+      "He plays the horses/the stock market."
+    ],
+    "chi_sen": [
+      "他玩賭馬／炒股。"
+    ]
+  },
+  {
+    "word": "PLAY(15)",
+    "eng_def": "a piece of writing that is intended to be acted in a theatre or on radio or television",
+    "chi_def": "劇本;戲劇",
+    "eng_sen": [
+      "a radio play",
+      "\"Did you see the play (= the performance of the play) on Thursday?\" \"No, I went on Wednesday night.\""
+    ],
+    "chi_sen": [
+      "廣播劇",
+      "「你是星期四去看的那齣戲嗎？」「不，我星期三去的。」"
+    ]
+  },
+  {
+    "word": "PLAY(16)",
+    "eng_def": "the activity of taking part in a sport or a game",
+    "chi_def": "比賽",
+    "eng_sen": [
+      "Rain stopped play during the final of the National Tennis Championship."
+    ],
+    "chi_sen": [
+      "下雨使全國網球錦標賽的決賽中斷了。"
+    ]
+  },
+  {
+    "word": "PLAY(17)",
+    "eng_def": "a plan or a small set of actions in a sport",
+    "chi_def": "打法；比賽中的動作",
+    "eng_sen": [
+      "The new pitcher made a great play on that throw to first base."
+    ],
+    "chi_sen": [
+      "新投手向一壘投出了精彩的一球。"
+    ]
+  },
+  {
+    "word": "PLAY(18)",
+    "eng_def": "activity that is not serious but done for enjoyment, especially when children enjoy themselves with toys and games",
+    "chi_def": "玩，玩耍",
+    "eng_sen": [
+      "The kids don't get much time for play in the evenings.",
+      "We watched the children at play in the park."
+    ],
+    "chi_sen": [
+      "孩子們晚上沒有多少時間玩。",
+      "我們看著公園裡玩耍的孩子們。"
+    ]
+  },
+  {
+    "word": "PLAY(19)",
+    "eng_def": "movement",
+    "chi_def": "移動，活動;變幻;閃現",
+    "eng_sen": [
+      "the play of moonlight across the water",
+      "the play of emotion across/on his face"
+    ],
+    "chi_sen": [
+      "水面上月光閃爍",
+      "他面部表情的變化"
+    ]
+  },
+  {
+    "word": "PLAY(20)",
+    "eng_def": "the fact that a rope or a structure is free to move, especially a small distance",
+    "chi_def": "（尤指小幅度的）伸縮餘地；間隙；活動空間",
+    "eng_sen": [
+      "Aircraft wings are designed to have a certain amount of play in them."
+    ],
+    "chi_sen": [
+      "飛機的機翼設計得有一定的彈性空間。"
+    ]
+  },
+  {
+    "word": "PLEASE(1)",
+    "eng_def": "used to make a request more polite",
+    "chi_def": "好嗎，請（用於客氣地請求）",
+    "eng_sen": [
+      "Could I have two coffees and a tea, please?",
+      "Please remember to close the windows before you leave."
+    ],
+    "chi_sen": [
+      "給我來兩杯咖啡、一杯茶好嗎？",
+      "您離開前請記住關上窗戶。"
+    ]
+  },
+  {
+    "word": "PLEASE(2)",
+    "eng_def": "used to add force to a request or demand",
+    "chi_def": "請，求求你（用於加強請求或要求的語氣）",
+    "eng_sen": [
+      "Please, David, put the knife down.",
+      "Oh, please. Do shut up!"
+    ],
+    "chi_sen": [
+      "求求你，大衛，把刀放下。",
+      "好了，別說了！"
+    ]
+  },
+  {
+    "word": "PLEASE(3)",
+    "eng_def": "used especially by children to a teacher or other adult in order to get their attention",
+    "chi_def": "讓我說（尤指兒童為引起老師或其他成年人的注意時的用語）",
+    "eng_sen": [
+      "Please, Miss, I know the answer!"
+    ],
+    "chi_sen": [
+      "我來說，老師，我知道答案！"
+    ]
+  },
+  {
+    "word": "PLEASE(4)",
+    "eng_def": "used when accepting something politely or enthusiastically",
+    "chi_def": "好，謝謝（用於禮貌或熱情地接受某物時）",
+    "eng_sen": [
+      "\"More potatoes?\" \"Please.\"",
+      "\"May I bring my husband?\" \"Please do.\"",
+      "\"Would you like dessert?\" \"Oh, yes please.\""
+    ],
+    "chi_sen": [
+      "「要不要再來點馬鈴薯？」「好的。」",
+      "「我可以帶我丈夫來嗎？」「當然可以。」",
+      "「你要甜品嗎？」「啊，太好了。」"
+    ]
+  },
+  {
+    "word": "PLEASE(5)",
+    "eng_def": "to make someone feel happy or satisfied, or to give someone pleasure",
+    "chi_def": "（使）開心;（使）滿意;取悅",
+    "eng_sen": [
+      "I only got married to please my parents.",
+      "He was always a good boy, very friendly and eager to please.",
+      "It always pleases me to see a well-designed book!"
+    ],
+    "chi_sen": [
+      "我結婚只是為了讓我父母高興。",
+      "他一直是個好孩子，對人非常友好，容易相處。。",
+      "看到一本設計精美的書，我總是很開心。"
+    ]
+  },
+  {
+    "word": "PLEASE(6)",
+    "eng_def": "to want, like, or choose, when used with words such as \"whatever\", \"whoever\", and \"anywhere\"",
+    "chi_def": "願意，樂意（與 whatever， whoever 和 anywhere 等詞連用）",
+    "eng_sen": [
+      "She thinks she can just do whatever/as she pleases.",
+      "I shall go out with whoever I please."
+    ],
+    "chi_sen": [
+      "她覺得自己可以為所欲為。",
+      "我想和誰出去就和誰出去。"
+    ]
+  },
+  {
+    "word": "PLEASE(7)",
+    "eng_def": "used to express surprise and anger: ",
+    "chi_def": "光換幾扇打破的窗戶他們竟然要200英鎊！",
+    "eng_sen": [
+      "They want £200, if you please, just to replace a couple of broken windows!"
+    ],
+    "chi_sen": [
+      "光換幾扇打破的窗戶他們竟然要200英鎊！"
+    ]
+  },
+  {
+    "word": "PLEASE(8)",
+    "eng_def": "used to make a request more polite: ",
+    "chi_def": "女士們先生們，請坐。",
+    "eng_sen": [
+      "Take your seats, ladies and gentlemen, if you please."
+    ],
+    "chi_sen": [
+      "女士們先生們，請坐。"
+    ]
+  },
+  {
+    "word": "P.M.(1)",
+    "eng_def": "used when referring to a time in the afternoon or evening or at night",
+    "chi_def": "下午",
+    "eng_sen": [
+      "We'll be arriving at about 4.30 p.m. ",
+      "The 6 p.m. train is usually very crowded."
+    ],
+    "chi_sen": [
+      "我們下午4：30左右到。",
+      "下午六點的火車通常很擠。"
+    ]
+  },
+  {
+    "word": "P.M.(2)",
+    "eng_def": "abbreviation for\nprime minister ",
+    "chi_def": "首相（prime minister的縮寫）",
+    "eng_sen": [
+      "The PM wants to see you."
+    ],
+    "chi_sen": [
+      "首相想見你。"
+    ]
+  },
+  {
+    "word": "P.M.(3)",
+    "eng_def": "abbreviation for \nproject manager ",
+    "chi_def": "項目經理（project manager 的縮寫）",
+    "eng_sen": [
+      "Who's PM on this project? "
+    ],
+    "chi_sen": [
+      "誰是這個項目的經理？"
+    ]
+  },
+  {
+    "word": "P.M.(4)",
+    "eng_def": "abbreviation for private message: a message sent on a social media website that only the person it is sent to can see",
+    "chi_def": "私信（private message的縮寫）",
+    "eng_sen": [
+      "I sent you a PM yesterday. Did you get it?"
+    ],
+    "chi_sen": [
+      "我昨天給你發了一條私信，你收到了嗎？"
+    ]
+  },
+  {
+    "word": "P.M.(5)",
+    "eng_def": "abbreviation for private message: to send someone a private message on a social media website",
+    "chi_def": "發私信（private message的縮寫）",
+    "eng_sen": [
+      "PM me if you have any questions."
+    ],
+    "chi_sen": [
+      "有問題的話，私信我。"
+    ]
+  },
+  {
+    "word": "POINT(1)",
+    "eng_def": "an idea, opinion, or piece of information that is said or written",
+    "chi_def": "觀點;論點",
+    "eng_sen": [
+      "I'd like to discuss the first point in your essay.",
+      "You made some interesting points in your speech."
+    ],
+    "chi_sen": [
+      "我想討論一下你文章中的第一點。",
+      "你發言中有些觀點很有趣。"
+    ]
+  },
+  {
+    "word": "POINT(2)",
+    "eng_def": "the meaning or most important part of what someone says or writes",
+    "chi_def": "（某人）的意思，要點",
+    "eng_sen": [
+      "The point is, if you don't claim the money now you might never get it.",
+      "I think you missed (= did not understand) the point of what she was saying.",
+      "I take your point/Point taken (= I understand that what you are saying is important).",
+      "Please get to the point (= say the thing that is most important to you).",
+      "He hasn't got much money, but that's not the point (= that is not the important thing)."
+    ],
+    "chi_sen": [
+      "重要的是，如果你現在不索取這筆錢的話，你可能就再也得不到了。",
+      "我認為你沒有理解她說的要點。",
+      "我明白你的意思。",
+      "請言歸正轉。",
+      "他沒有多少錢，但這不是重點。"
+    ]
+  },
+  {
+    "word": "POINT(3)",
+    "eng_def": "an opinion or fact that deserves to be considered seriously, or that other people agree is true",
+    "chi_def": "想法，意見;事實",
+    "eng_sen": [
+      "Yes, I can see your point/you've got a point there.",
+      "OK, you've made your point (= told us your opinion) - there's no need to go on about it."
+    ],
+    "chi_sen": [
+      "是的，我明白你的意思／你說得有道理。",
+      "好，你已經表明了你的觀點，沒必要再多說了。"
+    ]
+  },
+  {
+    "word": "POINT(4)",
+    "eng_def": "not important or not related to the subject being discussed",
+    "chi_def": "不重要的；離題的，不相關的",
+    "eng_sen": [
+      "The fact that he doesn't want to come is beside the point - he should have been invited."
+    ],
+    "chi_sen": [
+      "他不想來這並不重要——重要的是他本來應該受邀請的。"
+    ]
+  },
+  {
+    "word": "POINT(5)",
+    "eng_def": "said to show that what someone has just said is true or important",
+    "chi_def": "所言甚是",
+    "eng_sen": [
+      "\"We'll take the bus.\" \"But we don't have any money for the fare.\" \"That's a point.\""
+    ],
+    "chi_sen": [
+      "「我們乘公共汽車吧。」「但我們沒錢買車票。」「這倒是。」"
+    ]
+  },
+  {
+    "word": "POINT(6)",
+    "eng_def": "a particular time or stage reached in a process",
+    "chi_def": "時刻;階段",
+    "eng_sen": [
+      "At that point, a soldier opened fire on the car.",
+      "I was completely lost at one point.",
+      "It was so confusing that eventually it got to the point where no one knew what was going on.",
+      "I said I'd tell her the bad news, but when it came to the point (= when I had to do it), I couldn't."
+    ],
+    "chi_sen": [
+      "就在此時，一個士兵向轎車開了火。",
+      "我一度完全不知所措了。",
+      "這件事很莫名其妙，最後無人知道到底發生了甚麼事。",
+      "我說過我要告訴她這個壞消息，但真要開口的時候，我卻說不出口了。"
+    ]
+  },
+  {
+    "word": "POINT(7)",
+    "eng_def": "a particular place",
+    "chi_def": "地點",
+    "eng_sen": [
+      "the point where the road bends",
+      "This is a good point from which to watch the race."
+    ],
+    "chi_sen": [
+      "公路拐彎處",
+      "這是個觀看比賽的好地方。"
+    ]
+  },
+  {
+    "word": "POINT(8)",
+    "eng_def": "purpose or usefulness",
+    "chi_def": "目的，意義；用處",
+    "eng_sen": [
+      "There's no point arguing about it - we're going and that's that.",
+      "I'd like to write to him, but what's the point? He never writes back.",
+      "I see little point in discussing this further."
+    ],
+    "chi_sen": [
+      "爭辯也沒有用——我們要去，就這麼定了。",
+      "我願意寫信給他，但這有甚麼用呢？他從不回信。",
+      "我看不出繼續討論還有甚麼意義。"
+    ]
+  },
+  {
+    "word": "POINT(9)",
+    "eng_def": "a mark or unit for counting, especially how much a person or team has scored in a sport",
+    "chi_def": "（尤指體育運動的）比分，得分",
+    "eng_sen": [
+      "The youngest skier won the most points.",
+      "He won the world heavyweight boxing championship on points (= as a result of the points that he had won).",
+      "Interest rates have risen by two percentage points (= two percent)."
+    ],
+    "chi_sen": [
+      "那個最年輕的滑雪選手得分最高。",
+      "他以點數贏得了世界重量級拳擊冠軍。",
+      "利率上漲了兩個百分點。"
+    ]
+  },
+  {
+    "word": "POINT(10)",
+    "eng_def": "a unit used for measuring the size of printed letters, equal to about 0.3 mm or 1/72 of an inch",
+    "chi_def": "點，磅值（印刷字型大小的計量單位，約等於0.3毫米）",
+    "eng_sen": [
+      "The large letters are in 7.5 point type, and the small letters are in 6 point."
+    ],
+    "chi_sen": [
+      "大的字母是7½點的，小的是6點的。"
+    ]
+  },
+  {
+    "word": "POINT(11)",
+    "eng_def": "the sharp end of something, such as a knife",
+    "chi_def": "（刀等的）尖（端）",
+    "eng_sen": [
+      "The knife landed with its point sticking into the floor.",
+      "Be careful with that needle - it has a very sharp point."
+    ],
+    "chi_sen": [
+      "刀落地時刀尖刺入了地面。",
+      "小心針，它的頭很尖。"
+    ]
+  },
+  {
+    "word": "POINT(12)",
+    "eng_def": "a particular quality or characteristic of a person or thing",
+    "chi_def": "特點；特質；特徵",
+    "eng_sen": [
+      "There are various points to look out for when you're judging dogs in a competition.",
+      "He's boring, but I suppose he has his good points.",
+      "I think her kindness is one of her strong points (= one of her good qualities)."
+    ],
+    "chi_sen": [
+      "在比賽中要根據各方面的特點對狗作出評比。",
+      "他很乏味，但我認為他也有長處。",
+      "我覺得為人和氣是她的優點之一。"
+    ]
+  },
+  {
+    "word": "POINT(13)",
+    "eng_def": "a long, thin area of land that stretches out into the sea",
+    "chi_def": "尖岬，岬角",
+    "eng_sen": [
+      "Spurn Point"
+    ],
+    "chi_sen": [
+      "斯珀恩角"
+    ]
+  },
+  {
+    "word": "POINT(14)",
+    "eng_def": "a small, round spot that is used in numbers to separate whole numbers from parts of numbers",
+    "chi_def": "小數點",
+    "eng_sen": [
+      "One kilogram equals two point two (= 2.2) pounds.",
+      "The error occurred when someone left out the decimal point."
+    ],
+    "chi_sen": [
+      "1公斤等於2.2磅。",
+      "有人遺漏了小數點，出現了錯誤。"
+    ]
+  },
+  {
+    "word": "POINT(15)",
+    "eng_def": "the toes of a ballet dancer's shoes",
+    "chi_def": "（芭蕾舞鞋的）鞋尖",
+    "eng_sen": [
+      "She is learning how to dance on her points."
+    ],
+    "chi_sen": [
+      "她正在學習如何以足尖踮地跳舞。"
+    ]
+  },
+  {
+    "word": "POINT(16)",
+    "eng_def": "a socket to which a wire from a piece of electrical equipment is connected in order to supply it with electricity or a radio, television, or other signal",
+    "chi_def": "插座",
+    "eng_sen": [
+      "a TV antenna point",
+      "There is a phone point in every room."
+    ],
+    "chi_sen": [
+      "電視天線插孔",
+      "每個房間都有電話線插孔。"
+    ]
+  },
+  {
+    "word": "POINT(17)",
+    "eng_def": "in some car engines, either of two parts that allow or prevent the flow of electricity",
+    "chi_def": "（汽車引擎分電器的）接點",
+    "eng_sen": [
+      "He checked the points and plugs and topped up the oil."
+    ],
+    "chi_sen": [
+      "他檢查了分電器接點和火花塞，加滿了油。"
+    ]
+  },
+  {
+    "word": "POINT(18)",
+    "eng_def": "a place on a railway track where the rails (= metal bars on which the trains travel) can be moved to allow a train to change from one track to another",
+    "chi_def": "（鐵路的）道岔，轉轍器",
+    "eng_sen": [
+      "The train rattled as it went over the points."
+    ],
+    "chi_sen": [
+      "火車哐啷哐啷駛過道岔。"
+    ]
+  },
+  {
+    "word": "POINT(19)",
+    "eng_def": "a small, round mark on a line, plan, or map to show the position of something",
+    "chi_def": "（表示位置的）點",
+    "eng_sen": [
+      "Join the points A and B together on the diagram with a straight line."
+    ],
+    "chi_sen": [
+      "將圖上的 A 點和 B 點用直線連起來。"
+    ]
+  },
+  {
+    "word": "POINT(20)",
+    "eng_def": "a very small, round light that you can see in the distance",
+    "chi_def": "光點",
+    "eng_sen": [
+      "I could just make out the tiny points of a car's headlights far away."
+    ],
+    "chi_sen": [
+      "我只能勉強看到遠處車前燈的小小光點。"
+    ]
+  },
+  {
+    "word": "POINT(21)",
+    "eng_def": "to direct other people's attention to something by holding out your finger towards it",
+    "chi_def": "指，指向",
+    "eng_sen": [
+      "\"Look at that!\" she said, pointing at the hole in the door.",
+      "Small children are often told that it's rude to point."
+    ],
+    "chi_sen": [
+      "「看那個！」她指著門上的洞說道。",
+      "小孩子們經常被告知用手指指點點是不禮貌的。"
+    ]
+  },
+  {
+    "word": "POINT(22)",
+    "eng_def": "to hold something out in the direction of someone or something",
+    "chi_def": "用…對準，瞄準",
+    "eng_sen": [
+      "He said that the man had pointed a knife at him."
+    ],
+    "chi_sen": [
+      "他說那人用刀指著他。"
+    ]
+  },
+  {
+    "word": "POINT(23)",
+    "eng_def": "If something points in a particular direction, it is turned towards that direction.",
+    "chi_def": "指向；朝向",
+    "eng_sen": [
+      "The road sign points left.",
+      "All the cars were pointing in the same direction.",
+      "There was an arrow pointing to the door."
+    ],
+    "chi_sen": [
+      "路標指向左邊。",
+      "所有的汽車都朝一個方向開。",
+      "有個箭頭指向房門。"
+    ]
+  },
+  {
+    "word": "POINT(24)",
+    "eng_def": "relating to when a ballet dancer dances on their toes",
+    "chi_def": "芭蕾足尖舞步的",
+    "eng_sen": [
+      "a pair of point shoes",
+      "Today we'll do some point work."
+    ],
+    "chi_sen": [
+      "一雙芭蕾舞足尖鞋",
+      "今天我們將做一些足尖練習。"
+    ]
+  },
+  {
+    "word": "POLITE(1)",
+    "eng_def": "behaving in a way that is socially correct and shows understanding of and care for other people's feelings",
+    "chi_def": "有禮貌的",
+    "eng_sen": [
+      "I'm afraid I wasn't very polite to her.",
+      "She sent me a polite letter thanking me for my invitation.",
+      "He was too polite to point out my mistake."
+    ],
+    "chi_sen": [
+      "恐怕那時我對她有點不禮貌。",
+      "她給我寫了一封客氣的信，感謝我的邀請。",
+      "他太客氣，沒有指出我的錯誤。"
+    ]
+  },
+  {
+    "word": "POLITE(2)",
+    "eng_def": "socially correct rather than friendly",
+    "chi_def": "斯文的，文雅的",
+    "eng_sen": [
+      "polite conversation"
+    ],
+    "chi_sen": [
+      "溫文爾雅的談話"
+    ]
+  },
+  {
+    "word": "POLITE(3)",
+    "eng_def": "people who have been taught how to behave in a socially correct way: ",
+    "chi_def": "過去在上流社會從來不談有關性的問題。",
+    "eng_sen": [
+      "Sex never used to be discussed in polite society."
+    ],
+    "chi_sen": [
+      "過去在上流社會從來不談有關性的問題。"
+    ]
+  }
+]
