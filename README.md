@@ -43,7 +43,14 @@ enter filepath of destination:
 [大考中心英文單字表][1]
 
   [1]: https://www.ceec.edu.tw/xmdoc?xsmsid=0K213553204833715309        "游標顯示"
-## This is a Heading h2
+## 著作權聲明
+
+單字表資料來源:大考中心 (https://www.ceec.edu.tw/)
+
+爬蟲資料來源：劍橋英漢字典（https://dictionary.cambridge.org）
+
+本程式僅供學習與研究使用，無任何商業用途。
+
 ###### This is a Heading h6
 
 ## Emphasis
