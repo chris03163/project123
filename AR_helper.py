@@ -1,7 +1,8 @@
 import tkinter as tk
 from tkinter import ttk
 import json
-with open("test.json", "r", encoding="utf-8") as f:
+
+with open("result.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 current_index = 0
@@ -10,7 +11,6 @@ scd_state = 1#show_eng_def button的state，1代表沒有顯示，2代表有顯�
 sb_state = 1#show_button的state，1代表沒有顯示中文解釋2代表有顯示
 labels = {}
 buttons = {}
-s = {0, 0, 0, 0, 0, 0, 0, 0}
 show_btn_states = [1, 1, 1, 1, 1, 1, 1, 1, 1]
 
 
@@ -19,8 +19,8 @@ def initialize():
     global scd_state
     sed_state = 1
     scd_state = 1
-    eng_def.config(text = "")#把英文釋義改成空白
-    chi_def.config(text = "")#把英文釋義改成空白
+    eng_def.config(text = "英文釋義")#把英文釋義改成空白
+    chi_def.config(text = "中文釋義")#把英文釋義改成空白
     eng_def_button.config(text = "show")#
     chi_def_button.config(text = "show")
     
@@ -48,7 +48,7 @@ def renew():
         eng_label.pack(anchor='nw')
         test_frame = ttk.Frame(middle_frame)
         test_frame.pack()
-        labelname = tk.Label(test_frame, text = "", bg = 'gray', width=70)
+        labelname = tk.Label(test_frame, text = "英文釋義", bg = 'gray', width=70)
         buttonname = tk.Button(test_frame, text = 'show', width = 20)
         buttonname.config(command=lambda i=i: show_chi_sen(i))
         labelname.pack(side = 'left')
@@ -88,7 +88,7 @@ def show_eng_def():
         sed_state = 2
         eng_def_button.config(text = 'hide')
     else:
-        eng_def.config(text = "")
+        eng_def.config(text = "英文釋義")
         sed_state = 1
         eng_def_button.config(text = 'show')
 def show_chi_def():
@@ -100,7 +100,7 @@ def show_chi_def():
         scd_state = 2
         chi_def_button.config(text = 'hide')
     else:
-        chi_def.config(text = "")
+        chi_def.config(text = "中文釋義")
         scd_state = 1
         chi_def_button.config(text = 'show')
 
@@ -116,6 +116,10 @@ def show_chi_sen(num):
         buttons[num].config(text = 'show')
         show_btn_states[num] = 1
 
+def close_window():
+    with open("result.json", "w", encoding="utf-8") as f2:
+        json.dump(data, f2, ensure_ascii=False, indent=2)
+    window.destroy()
 # def show_exp():
 #     global current_index
 #     global sb_state
@@ -143,7 +147,7 @@ window.geometry('600x400')
 top_frame = ttk.Frame(window)
 title = ttk.Label(top_frame, text = data[current_index]["word"], background = 'gray', width= 20)#放單字
 top_eng_frame = ttk.Frame(top_frame)
-eng_def = ttk.Label(top_eng_frame, text = "", background = 'gray', wraplength=350, padding= 5)#放英文解釋
+eng_def = tk.Label(top_eng_frame, text = "英文釋義", background = 'gray', wraplength=350, height = 3)#放英文解釋
 eng_def_button = ttk.Button(top_eng_frame, text = "show")
 eng_def_button.config(command=show_eng_def)
 top_chi_frame = ttk.Frame(top_frame)
@@ -154,7 +158,7 @@ chi_def_button.config(command=show_chi_def)
 
 # label3 = ttk.Label(window, text = 'label 3', background = 'green')
 
-print(current_index)
+
 
 #bottome frame
 bottom_frame = ttk.Frame(window)
@@ -165,7 +169,7 @@ button = ttk.Button(bottom_frame, text = 'previous', width=20)
 # button2.config(command = show_exp)
 button3 = ttk.Button(bottom_frame, text = 'next', width=20)
 del_button = ttk.Button(bottom_frame, text = 'discard')
-
+save_button = ttk.Button(bottom_frame, text = 'save and leave')
 #packs
 # label1.pack(side = 'left')
 # label2.pack()
@@ -201,25 +205,13 @@ for i in range(len(data[current_index]["chi_sen"])):
     eng_label.pack(anchor='nw')
     test_frame = ttk.Frame(middle_frame)
     test_frame.pack()
-    labelname = tk.Label(test_frame, text = "", bg = 'gray', width=70)
+    labelname = tk.Label(test_frame, text = "英文釋義", bg = 'gray', width=70)
     buttonname = tk.Button(test_frame, text = 'show', width = 20)
     buttonname.config(command=lambda i=i: show_chi_sen(i))
     labelname.pack(side = 'left')
     buttonname.pack(side = 'right')
     labels[i] = labelname
     buttons[i] = buttonname
-
-
-# def destroy_and_create2():
-#     global current_index
-#     if(current_index <= 0):
-#         return
-#     print("destroyed")
-#     if middle_frame:  # 如果之前有建 frame，就先刪掉
-#         middle_frame.destroy()
-#     move_to_prev()
-#middle layout
-# label3.pack(expand=True)
 
 #bottom layout
 bottom_frame.pack(side = 'bottom', pady=20)
@@ -230,6 +222,7 @@ button3.config(command = move_to_next)
 button3.pack(side = 'left', padx = 10)
 del_button.config(command= discard)
 del_button.pack(side = 'left')
-
+save_button.config(command= close_window)
+save_button.pack(side = 'left')
 #run
 window.mainloop()

@@ -1,0 +1,158 @@
+﻿eng sentence: John has been absent from school/work for three days now.
+ch sentence: 約翰到現在已經曠課／曠工三天了。
+eng sentence: We drank a toast to absent friends.
+ch sentence: 我們為沒能來的朋友舉杯祝福。
+eng sentence: Any sign of remorse was completely absent from her face.
+ch sentence: 她臉上沒有一絲自責的神情。
+eng sentence: Absent a detailed plan, the project was doomed from the start.
+ch sentence: 由於缺乏周詳的規劃，這項工程從一開始就註定要失敗。
+eng sentence: Do you accept credit cards?
+ch sentence: 你們接受信用卡付帳嗎？
+eng sentence: She was in Mumbai to accept an award for her latest novel.
+ch sentence: 她赴孟買領取最新一部小說所獲獎項。
+eng sentence: I offered her an apology, but she wouldn't accept it.
+ch sentence: 我向她道歉，但是她不接受。
+eng sentence: I accept full responsibility for the failure of the plan.
+ch sentence: 我承擔這項計劃失敗的全部責任。
+eng sentence: The new coffee machines will accept coins of any denomination.
+ch sentence: 新型咖啡機接受任何面值的硬幣。
+eng sentence: We've offered her the job, but I don't know whether she'll accept it.
+ch sentence: 我們把這份工作給了她，但是我不知道她會不會接受。
+eng sentence: I've just accepted an invitation to the opening-night party.
+ch sentence: 我剛剛接受了參加首映晚會的邀請。
+eng sentence: I've been invited to their wedding but I haven't decided whether to accept.
+ch sentence: 他們邀請我參加婚禮，但是我還沒有決定去不去。
+eng sentence: The manuscript was accepted for publication last week.
+ch sentence: 手稿於上週獲得認可，準備出版。
+eng sentence: She was accepted as a full member of the society.
+ch sentence: 她被接納為該協會的正式成員。
+eng sentence: His fellow workers refused to accept him (= to include him as one of their group).
+ch sentence: 他的同事不把他當作自己人。
+eng sentence: The police refused to accept her version of the story.
+ch sentence: 警方不相信她的說法。
+eng sentence: He still hasn't accepted the situation (= realized that he cannot change it).
+ch sentence: 他仍無法接受現實。
+eng sentence: I can't accept that there's nothing we can do.
+ch sentence: 我不相信我們無能為力了。
+eng sentence: Josh had an accident and spilled water all over his work.
+ch sentence: 喬希不小心把作業上灑得都是水。
+eng sentence: She was injured in a car/road accident (= when one car hit another).
+ch sentence: 她在一宗車禍／交通意外中受傷了。
+eng sentence: I've opened an account with a building society .
+ch sentence: 我在房屋互助協會開了個帳戶。
+eng sentence: I paid the money into my account this morning.
+ch sentence: 今天上午我把錢存入了我的帳戶。
+eng sentence: She paid the cheque into her account.
+ch sentence: 她把支票存入了帳戶。
+eng sentence: She deposited the check in/into her account.
+ch sentence: 她把支票存入了帳戶。
+eng sentence: I need to withdraw some money from my account.
+ch sentence: 我需要從我的帳戶裡取出一些錢來。
+eng sentence: She gave a thrilling account of her life in the jungle.
+ch sentence: 她把自己在叢林中生活的經歷描述得驚險刺激。
+eng sentence: He kept a detailed account of the suspect's movements.
+ch sentence: 他詳細紀錄了犯罪嫌疑人的一舉一動。
+eng sentence: Several eyewitnesses' accounts differed considerably from the official version of events.
+ch sentence: 幾個目擊者對於事件的敘述和官方的說法有很大出入。
+eng sentence: Could you put it on/charge it to my account (= can I pay for it later), please?
+ch sentence: 把這筆錢記在我的（賒購）帳上好嗎？
+eng sentence: Do you have an account at this store/with us, madam? 
+ch sentence: 女士，你在我們商店有賒購帳戶嗎？
+eng sentence: Could you please settle your account in full (= give us all the money you owe us)?
+ch sentence: 您可以把賒的帳全結清嗎？
+eng sentence: If the advertising agency loses this account, it will make a big dent in their profits.
+ch sentence: 如果該廣告公司丟掉了這個客戶，他們的利潤就會銳減。
+eng sentence: She was accounted a genius by all who knew her work.
+ch sentence: 所有知道她作品的人都認為她是個天才。
+eng sentence: You have to try to keep active as you grow older.
+ch sentence: 年紀大了，應該盡量保持身心活躍。
+eng sentence: physically/mentally active
+ch sentence: 經常運動的／思想活躍的
+eng sentence: She's very active in (= involved in) local politics.
+ch sentence: 她積極參與當地的政治活動。
+eng sentence: Enemy forces remain active in the mountainous areas around the city.
+ch sentence: 敵軍在城市周圍的山區仍然活動猖獗。
+eng sentence: Both of his parents were very politically active.
+ch sentence: 他的父母在政治上都很積極。
+eng sentence: It is important to educate children before they become sexually active.
+ch sentence: 在孩子進入性活躍期之前對他們進行有關教育很重要。
+eng sentence: She's an active member of her trade union (= not only belongs to it, but does work to help it).
+ch sentence: 她是工會中的活躍分子。
+eng sentence: "Catrin told me" is an active sentence, and "I was told by Catrin" is passive.
+ch sentence: Catrin told me 是主動句，而 I was told by Catrin 是被動句。
+eng sentence: Economists are concerned by the low level of economic activity.
+ch sentence: 經濟學家們都為經濟不景氣而擔憂。
+eng sentence: There was a sudden flurry of activity when the director walked in.
+ch sentence: 經理一走進來，大家馬上一片手忙腳亂。
+eng sentence: There was a lot of activity in preparation for the Queen's visit.
+ch sentence: 大家都在為準備迎接女王來訪而忙碌。
+eng sentence: He was found guilty of terrorist activity.
+ch sentence: 他因從事恐怖主義活動而被判有罪。
+eng sentence: criminal activities
+ch sentence: 犯罪活動
+eng sentence: His spare-time activities include cooking, tennis, and windsurfing.
+ch sentence: 他的業餘活動包括烹飪、打網球和風帆運動。
+eng sentence: We offer our guests a wide range of outdoor/sporting activities.
+ch sentence: 我們為客人提供一系列廣泛的戶外娛樂／體育活動項目。
+eng sentence: We had estimated about 300 visitors, but the actual number was much higher.
+ch sentence: 我們估計大約會有300名來賓，可實際人數要多得多。
+eng sentence: The exams are in July, but the actual results (= the results themselves) don't appear until September.
+ch sentence: 考試是在七月份，但是真正成績公佈要等到九月份。
+eng sentence: Twice a week the children are tested in basic mathematical skills such as addition (= calculating the total of different numbers put together) and subtraction.
+ch sentence: 孩子每週要參加兩次加減法等基礎數學能力的測試。
+eng sentence: Most working environments are improved by the addition of (= by adding) a few plants and pictures.
+ch sentence: 多數情況下，只要擺上幾盆花、幾幅畫，工作環境就能得到改善。
+eng sentence: We're building an addition to our house.
+ch sentence: 我們正在對房屋進行擴建。
+eng sentence: her business/home address
+ch sentence: 她的公司地址／家庭住址
+eng sentence: a change of address
+ch sentence: 地址變更
+eng sentence: What's your email address?
+ch sentence: 你的電子郵件地址是什麼？
+eng sentence: Do you have their Web address?
+ch sentence: 你知道他們的網址嗎？
+eng sentence: She gave an address to the Royal Academy.
+ch sentence: 她在皇家藝術院作了場演講。
+eng sentence: He addressed a few introductory remarks to the audience.
+ch sentence: 他向觀眾說了幾句開場白。
+eng sentence: He likes to be addressed as "Sir" or "Mr Partridge".
+ch sentence: 他喜歡被稱為「先生」或「派特裡奇先生」。
+eng sentence: The issue of funding has yet to be addressed.
+ch sentence: 資金問題尚未得到解決。
+eng sentence: The parcel was wrongly addressed.
+ch sentence: 這個包裹上面的地址寫錯了。
+eng sentence: So why did you open a letter that was addressed to me?
+ch sentence: 那你為甚麼要拆寫給我的信呢？
+eng sentence: He admitted his guilt/mistake.
+ch sentence: 他承認有罪／犯了錯誤。
+eng sentence: She admitted (that) she had made a mistake.
+ch sentence: 她承認自己犯了一個錯誤。
+eng sentence: She admitted making a mistake.
+ch sentence: 她承認自己犯了一個錯誤。
+eng sentence: At first he denied stealing the money but he later admitted (to) it.
+ch sentence: 初時他否認偷了錢，但是後來就承認了。
+eng sentence: I wasn't entirely honest with him, I admit.
+ch sentence: 我對他也不是百分之百的坦誠，這我承認。
+eng sentence: The new law was generally admitted to be difficult to enforce.
+ch sentence: 人們普遍認為，新的法律難以實施。
+eng sentence: Each ticket admits one member and one guest.
+ch sentence: 每張票可以讓一位會員和一位客人進入。
+eng sentence: Men will not be admitted to the restaurant without a tie.
+ch sentence: 不繫領帶的男士不允許進入這家餐廳。
+eng sentence: A gap between the curtains admitted the faint glimmer of a street lamp.
+ch sentence: 街燈那微弱的光從窗簾間的一道縫隙透了進來。
+eng sentence: Spain was admitted to the European Community in 1986.
+ch sentence: 西班牙於1986年被接納為歐洲共同體成員。
+eng sentence: She was admitted to hospital suffering from shock.
+ch sentence: 她因中風被送入醫院救治。
+eng sentence: She was admitted to the hospital suffering from shock.
+ch sentence: 她因中風被送入醫院救治。
+eng sentence: An adult under English law is someone over 18 years old.
+ch sentence: 根據英國法律規定，成年人是指18歲以上人士。
+eng sentence: Adults pay an admission charge but children get in free.
+ch sentence: 成年人買票入內，兒童免費。
+eng sentence: an adult male/elephant
+ch sentence: 成年男子／大象
+eng sentence: Let's try to be adult about this.
+ch sentence: 在這件事上，我們不要耍小孩子脾氣。
