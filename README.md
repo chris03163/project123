@@ -12,6 +12,7 @@ This project is a comprehensive English vocabulary learning system that combines
 1. Web Crawler (visit3.py)
    
  * Scrapes vocabulary data from Cambridge English-Chinese Dictionary
+   
  * Extracts:
    * Word definitions (English and Chinese)
   
@@ -24,6 +25,7 @@ This project is a comprehensive English vocabulary learning system that combines
 2. Flashcard Application (AR_helper.py)
    
  * Tkinter-based GUI for vocabulary practice
+   
  * Features:
    * Word display with part of speech
  
@@ -36,7 +38,13 @@ This project is a comprehensive English vocabulary learning system that combines
    * "Got it" button to remove mastered words
  
    * Save progress functionality
+3. Data Files
+   
+ * input_words.txt: Input vocabulary list
 
+ * result.json: Structured vocabulary data (used by flashcard app)
+
+ * exmp_results.txt: Human-readable output from crawler
 
 
 
