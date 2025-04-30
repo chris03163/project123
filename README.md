@@ -79,7 +79,23 @@ This project is a comprehensive English vocabulary learning system that combines
    
 4. Data Persistence: Save your progress between sessions
 
+## Requirements
 
+1. Python 3.x
+
+2. Required packages:
+   ```
+   pip install requests beautifulsoup4 tkinter
+   ```
+
+## License
+
+This project is for educational purposes only. Data is sourced from:
+
+   * Cambridge Dictionary (https://dictionary.cambridge.org)
+   * CEEC English Vocabulary List (https://www.ceec.edu.tw/)
+
+Note: This program is for personal learning and research use only, with no commercial purpose.
 再把此專案下載下來，點擊執行名為visit2.py的檔案，將會出現
 ```
 enter filepath of word file:
