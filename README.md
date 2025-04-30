@@ -1,9 +1,7 @@
-# An English vocabulary web crawler and active recall helper
+# English Vocabulary Flashcard System
 
-## why this project?
-1.針對大考中心發布的單字表中的單字與其詞性爬取資料
-
-2結合上述功能的詞卡記憶輔助功能
+## Overview
+This project is a comprehensive English vocabulary learning system that combines web scraping functionality with an interactive flashcard application for active recall practice. The system allows users to:
 
 ## how to use?
 ### 首先是爬蟲的部分
