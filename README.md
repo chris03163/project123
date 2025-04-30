@@ -3,15 +3,44 @@
 ## Overview
 This project is a comprehensive English vocabulary learning system that combines web scraping functionality with an interactive flashcard application for active recall practice. The system allows users to:
 
-## how to use?
-### 首先是爬蟲的部分
-打開電腦的終端或powershell，並把以下內容複製貼上
- ```
-pip install requests
-```
- ```
-pip install BeautifulSoup
-```
+1. Crawl vocabulary data from Cambridge Dictionary
+
+2. Store the data in a structured JSON format
+
+3. Practice vocabulary through an interactive GUI with active recall features
+## Components
+1. Web Crawler (visit3.py)
+   
+ * Scrapes vocabulary data from Cambridge English-Chinese Dictionary
+ * Extracts:
+   * Word definitions (English and Chinese)
+  
+   * Part of speech (POS)
+  
+   * Example sentences (with translations)
+   
+ * Outputs results to both human-readable text file and structured JSON
+
+2. Flashcard Application (AR_helper.py)
+   
+ * Tkinter-based GUI for vocabulary practice
+ * Features:
+   * Word display with part of speech
+ 
+   * Toggleable English/Chinese definitions
+ 
+   * Example sentences with hide/show translation functionality
+ 
+   * Navigation through vocabulary list
+ 
+   * "Got it" button to remove mastered words
+ 
+   * Save progress functionality
+
+
+
+
+
 再把此專案下載下來，點擊執行名為visit2.py的檔案，將會出現
 ```
 enter filepath of word file:
