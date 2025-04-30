@@ -37,15 +37,15 @@ This project is a comprehensive English vocabulary learning system that combines
       
       * "Got it" button to remove mastered words
 
-* Save progress functionality
+   * Save progress functionality
 3. Data Files
    
- * input_words.txt: Input vocabulary list
-
- * result.json: Structured vocabulary data (used by flashcard app)
-
- * exmp_results.txt: Human-readable output from crawler
-
+   * input_words.txt: Input vocabulary list
+   
+   * result.json: Structured vocabulary data (used by flashcard app)
+   
+   * exmp_results.txt: Human-readable output from crawler
+   
 
 
 
