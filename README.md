@@ -93,6 +93,6 @@ This project is a comprehensive English vocabulary learning system that combines
 This project is for educational purposes only. Data is sourced from:
 
    * Cambridge Dictionary (https://dictionary.cambridge.org)
-   * CEEC English Vocabulary List (https://www.ceec.edu.tw/)
+   * CEEC English Vocabulary List (https://www.ceec.edu.tw/files/file_pool/1/0k213571061045122620/%E9%AB%98%E4%B8%AD%E8%8B%B1%E6%96%87%E5%8F%83%E8%80%83%E8%A9%9E%E5%BD%99%E8%A1%A8%28111%E5%AD%B8%E5%B9%B4%E5%BA%A6%E8%B5%B7%E9%81%A9%E7%94%A8%29.pdf)
 
 Note: This program is for personal learning and research use only, with no commercial purpose.
