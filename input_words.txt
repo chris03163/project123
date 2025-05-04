@@ -8,4 +8,3 @@ actual
 addition
 address
 admit
-adult
