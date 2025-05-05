@@ -48,7 +48,9 @@ This project is a comprehensive English vocabulary learning system that combines
    * exmp_results.txt: Human-readable output from crawler
    
 ## How to Use
-1. Web Crawler (crawl.py)
+1. Download the ZIP folder and extract it. Then, open it using any compiler or the command line.
+
+2. Web Crawler (crawl.py)
    
    1. Prepare your vocabulary list in input_words.txt 
    
@@ -64,7 +66,10 @@ This project is a comprehensive English vocabulary learning system that combines
    3. The crawler will generate:
       * result.json (structured data for the flashcard app)
       * exmp_results.txt (human-readable output)
-2. Using the Flashcard App
+
+   If you're having any problems running it, below is a demo video.
+
+4. Using the Flashcard App
    
    1. Run the application:
       ```
