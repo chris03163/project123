@@ -66,7 +66,7 @@ This project is a comprehensive English vocabulary learning system that combines
       * exmp_results.txt (human-readable output)
 2. Using the Flashcard App
    
-   1.Run the application:
+   1. Run the application:
    ```
    python app.py
    ```
