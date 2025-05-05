@@ -55,10 +55,13 @@ This project is a comprehensive English vocabulary learning system that combines
       (There will already be a few words for the test in this file. If you want to add GSAT (學測) words to the crawler, you can copy and paste them from the vocabulary folder.)
 
    2. Run the crawler:
-      ```
+
+      (To avoid garbled text, please run it using the terminal instead of using the compiler's Quick Compile feature.)
+
+       ```
       python crawl.py
       ```
-   3. The crawler will generate:
+   4. The crawler will generate:
       * result.json (structured data for the flashcard app)
       * exmp_results.txt (human-readable output)
 1. Using the Flashcard App
