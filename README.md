@@ -50,7 +50,7 @@ This project is a comprehensive English vocabulary learning system that combines
 ## How to Use
 1. Web Crawler (crawl.py)
    
-   1. Prepare your vocabulary list in input_words.txt (one word per line)
+   1. Prepare your vocabulary list in input_words.txt (There will already be ten words for the test in this file. If you want to add GSAT (學測) words to the crawler, you can copy and paste them from the vocabulary folder.)
    
    2. Run the crawler:
       ```
