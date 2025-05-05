@@ -9,7 +9,7 @@ This project is a comprehensive English vocabulary learning system that combines
 
 3. Practice vocabulary through an interactive GUI with active recall features
 ## Components
-1. Web Crawler (visit3.py)
+1. Web Crawler (crawl.py)
    
    * Scrapes vocabulary data from Cambridge English-Chinese Dictionary
    
@@ -22,7 +22,7 @@ This project is a comprehensive English vocabulary learning system that combines
 
    * Outputs results to both human-readable text file and structured JSON
 
-3. Flashcard Application (AR_helper.py)
+3. Flashcard Application (app.py)
    
    * Tkinter-based GUI for vocabulary practice
 
