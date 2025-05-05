@@ -62,7 +62,7 @@ This project is a comprehensive English vocabulary learning system that combines
 2. Using the Flashcard App
    1.Run the application:
    ```
-   python appr.py
+   python app.py
    ```
    2. Interface controls:
       * Previous/Next: Navigate through vocabulary
