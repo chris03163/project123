@@ -46,7 +46,7 @@ This project is a comprehensive English vocabulary learning system that combines
    * result.json: Structured vocabulary data (used by flashcard app)
    
    * exmp_results.txt: Human-readable output from crawler
-4. vocabulary folder
+4. Vocabulary folder
 
    * All vocabulary words from the GSAT (學測) English word list (organized by level)
    
