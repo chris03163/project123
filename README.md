@@ -67,8 +67,6 @@ This project is a comprehensive English vocabulary learning system that combines
       * result.json (structured data for the flashcard app)
       * exmp_results.txt (human-readable output)
 
-   If you're having any problems running it, below is a demo video.
-
 4. Using the Flashcard App
    
    1. Run the application:
@@ -80,6 +78,9 @@ This project is a comprehensive English vocabulary learning system that combines
       * Show/Hide: Toggle definitions and translations
       * Got it: Remove mastered words from practice set
       * Save and Leave: Save progress and exit(the words you removed will not appear again)
+
+If you're having any problems running it, below is a demo video.
+
 ## Features
 
 1. Active Recall Practice: Hide/show translations to test your memory
