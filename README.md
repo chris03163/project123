@@ -61,10 +61,11 @@ This project is a comprehensive English vocabulary learning system that combines
        ```
       python crawl.py
       ```
-   4. The crawler will generate:
+   3. The crawler will generate:
       * result.json (structured data for the flashcard app)
       * exmp_results.txt (human-readable output)
-1. Using the Flashcard App
+2. Using the Flashcard App
+   
    1.Run the application:
    ```
    python app.py
