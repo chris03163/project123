@@ -48,13 +48,13 @@ This project is a comprehensive English vocabulary learning system that combines
    * exmp_results.txt: Human-readable output from crawler
    
 ## How to Use
-1. Web Crawler (visit3.py)
+1. Web Crawler (crawl.py)
    
    1. Prepare your vocabulary list in input_words.txt (one word per line)
    
    2. Run the crawler:
       ```
-      python visit3.py
+      python crawl.py
       ```
    3. The crawler will generate:
       * result.json (structured data for the flashcard app)
@@ -62,13 +62,13 @@ This project is a comprehensive English vocabulary learning system that combines
 2. Using the Flashcard App
    1.Run the application:
    ```
-   python AR_helper.py
+   python appr.py
    ```
    2. Interface controls:
       * Previous/Next: Navigate through vocabulary
       * Show/Hide: Toggle definitions and translations
       * Got it: Remove mastered words from practice set
-      * Save and Leave: Save progress and exit
+      * Save and Leave: Save progress and exit(the words you removed will not appear again)
 ## Features
 
 1. Active Recall Practice: Hide/show translations to test your memory
