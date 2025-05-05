@@ -1,4 +1,4 @@
-# English Vocabulary Flashcard System
+# English Vocabulary Crawler and Flashcard System
 
 ## Overview
 This project is a comprehensive English vocabulary learning system that combines web scraping functionality with an interactive flashcard application for active recall practice. The system allows users to:
