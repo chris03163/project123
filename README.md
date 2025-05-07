@@ -82,6 +82,9 @@ This project is a comprehensive English vocabulary learning system that combines
       * Got it: Remove mastered words from practice set
       * Save and Leave: Save progress and exit(the words you removed will not appear again)
 
+   If you're having any problems running the app, below is a demo video.
+
+   https://youtu.be/o24iMDCENCY
 
 ## Features
 
