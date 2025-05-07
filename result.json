@@ -1,6 +1,21 @@
 [
   {
+    "word": "ABSENT(1)",
+    "POS": "adjective",
+    "eng_def": "not in the place where you are expected to be, especially at school or work",
+    "chi_def": "（尤指上課或工作）缺勤的；缺席的；不在場的",
+    "eng_sen": [
+      "John has been absent from school/work for three days now.",
+      "We drank a toast to absent friends."
+    ],
+    "chi_sen": [
+      "約翰到現在已經曠課／曠工三天了。",
+      "我們為沒能來的朋友舉杯祝福。"
+    ]
+  },
+  {
     "word": "ABSENT(2)",
+    "POS": "adjective",
     "eng_def": "not existing",
     "chi_def": "不存在的；缺乏的",
     "eng_sen": [
@@ -12,6 +27,7 @@
   },
   {
     "word": "ABSENT(3)",
+    "POS": "preposition",
     "eng_def": "without",
     "chi_def": "缺乏；沒有",
     "eng_sen": [
@@ -23,6 +39,7 @@
   },
   {
     "word": "ACCEPT(1)",
+    "POS": "verb",
     "eng_def": "to agree to take something",
     "chi_def": "接受;收受;領受",
     "eng_sen": [
@@ -42,6 +59,7 @@
   },
   {
     "word": "ACCEPT(2)",
+    "POS": "verb",
     "eng_def": "to say yes to an offer or invitation",
     "chi_def": "接受（提議或邀請）;同意",
     "eng_sen": [
@@ -57,6 +75,7 @@
   },
   {
     "word": "ACCEPT(3)",
+    "POS": "verb",
     "eng_def": "to consider something or someone as satisfactory",
     "chi_def": "（對…滿意而）接受，接納;歡迎",
     "eng_sen": [
@@ -72,6 +91,7 @@
   },
   {
     "word": "ACCEPT(4)",
+    "POS": "verb",
     "eng_def": "to believe that something is true",
     "chi_def": "相信；（認為真實而）接受",
     "eng_sen": [
@@ -87,6 +107,7 @@
   },
   {
     "word": "ACCIDENT(1)",
+    "POS": "noun",
     "eng_def": "something bad that happens that is not expected or intended and that often damages something or injures someone",
     "chi_def": "意外；不測；事故",
     "eng_sen": [
@@ -100,6 +121,7 @@
   },
   {
     "word": "ACCOUNT(1)",
+    "POS": "noun",
     "eng_def": "an arrangement with a bank to keep your money there and to allow you to take it out when you need to",
     "chi_def": "帳戶，戶口",
     "eng_sen": [
@@ -119,6 +141,7 @@
   },
   {
     "word": "ACCOUNT(2)",
+    "POS": "noun",
     "eng_def": "a written or spoken description or record of an event",
     "chi_def": "報導;報告;記述;描述",
     "eng_sen": [
@@ -134,6 +157,7 @@
   },
   {
     "word": "ACCOUNT(3)",
+    "POS": "noun",
     "eng_def": "an agreement with a shop or business that allows you to buy things and pay for them later",
     "chi_def": "賒銷帳;賒欠帳;賒購",
     "eng_sen": [
@@ -149,6 +173,7 @@
   },
   {
     "word": "ACCOUNT(4)",
+    "POS": "noun",
     "eng_def": "a customer who does business with a company",
     "chi_def": "客戶;主顧",
     "eng_sen": [
@@ -160,6 +185,7 @@
   },
   {
     "word": "ACCOUNT(5)",
+    "POS": "verb",
     "eng_def": "to think of someone or something in the stated way",
     "chi_def": "認為是;視為",
     "eng_sen": [
@@ -171,6 +197,7 @@
   },
   {
     "word": "ACTIVE(1)",
+    "POS": "adjective",
     "eng_def": "busy with a particular activity",
     "chi_def": "忙於…的",
     "eng_sen": [
@@ -184,6 +211,7 @@
   },
   {
     "word": "ACTIVE(2)",
+    "POS": "adjective",
     "eng_def": "involved in a particular activity",
     "chi_def": "參與…的",
     "eng_sen": [
@@ -203,6 +231,7 @@
   },
   {
     "word": "ACTIVE(3)",
+    "POS": "adjective",
     "eng_def": "An active verb or sentence is one in which the subject is the person or thing that performs the stated action.",
     "chi_def": "主動語態的",
     "eng_sen": [
@@ -214,6 +243,7 @@
   },
   {
     "word": "ACTIVITY(1)",
+    "POS": "noun",
     "eng_def": "the situation in which a lot of things are happening or people are moving around",
     "chi_def": "活躍；繁忙；熱鬧",
     "eng_sen": [
@@ -229,6 +259,7 @@
   },
   {
     "word": "ACTIVITY(2)",
+    "POS": "noun",
     "eng_def": "the work of a group or organization to achieve an aim",
     "chi_def": "行動;活動",
     "eng_sen": [
@@ -242,6 +273,7 @@
   },
   {
     "word": "ACTIVITY(3)",
+    "POS": "noun",
     "eng_def": "something that is done for enjoyment, especially an organized event",
     "chi_def": "（尤指有組織的）娛樂活動",
     "eng_sen": [
@@ -255,6 +287,7 @@
   },
   {
     "word": "ACTUAL(1)",
+    "POS": "adjective",
     "eng_def": "existing in fact",
     "chi_def": "現實的，實際的；真實的，真正的",
     "eng_sen": [
@@ -268,6 +301,7 @@
   },
   {
     "word": "ADDITION(1)",
+    "POS": "noun",
     "eng_def": "the process of adding numbers or amounts together",
     "chi_def": "加法",
     "eng_sen": [
@@ -279,6 +313,7 @@
   },
   {
     "word": "ADDITION(2)",
+    "POS": "noun",
     "eng_def": "someone new who has joined or been added to a group",
     "chi_def": "增加的人或物",
     "eng_sen": [],
@@ -286,6 +321,7 @@
   },
   {
     "word": "ADDITION(3)",
+    "POS": "noun",
     "eng_def": "the act of adding a substance or thing to something else",
     "chi_def": "增加；添加",
     "eng_sen": [
@@ -297,6 +333,7 @@
   },
   {
     "word": "ADDITION(4)",
+    "POS": "noun",
     "eng_def": "a new part added to a house or other building",
     "chi_def": "擴建部分",
     "eng_sen": [
@@ -308,6 +345,7 @@
   },
   {
     "word": "ADDRESS(1)",
+    "POS": "noun",
     "eng_def": "the number of the house, name of the road, and name of the town where a person lives or works, and where letters can be sent",
     "chi_def": "地址;住址",
     "eng_sen": [
@@ -321,6 +359,7 @@
   },
   {
     "word": "ADDRESS(2)",
+    "POS": "noun",
     "eng_def": "a series of letters and symbols that tell you where to find something on the internet or show where an email is sent to",
     "chi_def": "網址；電子郵件地址",
     "eng_sen": [
@@ -334,6 +373,7 @@
   },
   {
     "word": "ADDRESS(3)",
+    "POS": "noun",
     "eng_def": "a formal speech",
     "chi_def": "演講，演說",
     "eng_sen": [
@@ -345,6 +385,7 @@
   },
   {
     "word": "ADDRESS(4)",
+    "POS": "verb",
     "eng_def": "to speak or write to someone",
     "chi_def": "對…講話，對…發表演說，致辭;給…寫信，致函",
     "eng_sen": [
@@ -358,6 +399,7 @@
   },
   {
     "word": "ADDRESS(5)",
+    "POS": "verb",
     "eng_def": "to give attention to or deal with a matter or problem",
     "chi_def": "對付，應付；處理",
     "eng_sen": [
@@ -369,6 +411,7 @@
   },
   {
     "word": "ADDRESS(6)",
+    "POS": "verb",
     "eng_def": "to write a name or address on an envelope or parcel",
     "chi_def": "在（信封或包裹）上寫上姓名（或地址）",
     "eng_sen": [
@@ -382,6 +425,7 @@
   },
   {
     "word": "ADMIT(1)",
+    "POS": "verb",
     "eng_def": "to agree that something is true, especially unwillingly",
     "chi_def": "（尤指不情願地）承認;供認;招認",
     "eng_sen": [
@@ -403,6 +447,7 @@
   },
   {
     "word": "ADMIT(2)",
+    "POS": "verb",
     "eng_def": "to allow someone to enter a place",
     "chi_def": "允許…進入",
     "eng_sen": [
@@ -418,6 +463,7 @@
   },
   {
     "word": "ADMIT(3)",
+    "POS": "verb",
     "eng_def": "to allow a person or country to join an organization",
     "chi_def": "准許…加入;接納",
     "eng_sen": [
@@ -429,6 +475,7 @@
   },
   {
     "word": "ADMIT(4)",
+    "POS": "verb",
     "eng_def": "to allow someone to enter a hospital because they need medical care",
     "chi_def": "接收…入院;收治",
     "eng_sen": [
@@ -438,41 +485,6 @@
     "chi_sen": [
       "她因中風被送入醫院救治。",
       "她因中風被送入醫院救治。"
-    ]
-  },
-  {
-    "word": "ADULT(1)",
-    "eng_def": "a person or animal that has grown to full size and strength",
-    "chi_def": "成年人;成年動物",
-    "eng_sen": [
-      "An adult under English law is someone over 18 years old.",
-      "Adults pay an admission charge but children get in free."
-    ],
-    "chi_sen": [
-      "根據英國法律規定，成年人是指18歲以上人士。",
-      "成年人買票入內，兒童免費。"
-    ]
-  },
-  {
-    "word": "ADULT(2)",
-    "eng_def": "grown to full size and strength",
-    "chi_def": "發育成熟的;成年的",
-    "eng_sen": [
-      "an adult male/elephant"
-    ],
-    "chi_sen": [
-      "成年男子／大象"
-    ]
-  },
-  {
-    "word": "ADULT(3)",
-    "eng_def": "typical of or suitable for adults",
-    "chi_def": "成熟的;成人的;適宜於成年人的",
-    "eng_sen": [
-      "Let's try to be adult about this."
-    ],
-    "chi_sen": [
-      "在這件事上，我們不要耍小孩子脾氣。"
     ]
   }
 ]
